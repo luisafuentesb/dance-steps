@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="QdM5`Vunx3@SZT,bZN_%" x="0" y="0"></block><block type="device_forever" id="K|zXRn8u_Wpz.Da`0Y+L" x="205" y="0"></block><block type="device_button_event" id="=6!]JpA+?CFNjq1x]jw*" x="20" y="169"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="s6+we#|V6a+p1Pj,_6,T"><value name="TIMES"><shadow type="math_whole_number" id="`SdRgx}@R42nr?T=)KVy"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="8sDZx.DJTPFl|kn2_X2]"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="sFt(8q2?y0Ggb)h*TJYI"><value name="pause"><shadow type="timePicker" id="i6Rg_HR1:7xxBPWs,sJl"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="wC[9*g2UI|)[cLmKU(V_"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="r!ChMsL=koMK-;0Ts{dD"><value name="pause"><shadow type="timePicker" id="#*%;}K%ObsM/8!dG#O(P"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="zsD~@?fwiIAKOz4V{|wD"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="5$D!e+vrTT]lmG%ss`^F"><value name="pause"><shadow type="timePicker" id="nqQ,EpZCJi{,iAgJG@u7"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="$/!ZagCHecerK]/ROyhW"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="^EZrge[JzkVi|W(R=3u%"><value name="pause"><shadow type="timePicker" id="hSFVY)aOX#`N_f;5#TXf"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
